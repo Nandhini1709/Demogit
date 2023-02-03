@@ -13,6 +13,8 @@ namespace demo
             Console.WriteLine("Demo");
 
             Console.WriteLine("tobe added");
+
+            Console.WriteLine("Push without bulding the project");
         }
     }
 }
