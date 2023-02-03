@@ -16,7 +16,7 @@ namespace demo
 
             Console.WriteLine("Push without bulding the project");
 
-            Console.WriteLine("modyfying code after git closed );
+            Console.WriteLine("modyfying code after git closed ");
 
         }
     }
